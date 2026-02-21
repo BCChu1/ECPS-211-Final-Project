@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+test_data/
+test_data_v2/
+train_data/
+archive.zip
+test.csv
+test_v2.csv
+test_v2_labels.csv
+train.csv
